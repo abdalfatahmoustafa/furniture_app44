@@ -1,0 +1,40 @@
+//{
+//  "name":"s",
+//  "id": "ss",
+//  "email": "d",
+//  "orders": [
+//    {
+//      "price": 33.3,
+//      "done": false,
+//      "carType": "dsds",
+//      "numberOfHelpers": 4,
+//      "numberOfItems": 5
+//    }
+//  ]
+//}
+
+//{
+//  "name": "ds",
+//  "id": "dssdsds",
+//  "email": "sdsd",
+//  "phone": "00000",
+//  "photoUrl": "dsds",
+//  "carType": "sdsdsds",
+//  "carNumber": 12235,
+//  "available": false
+//}
+//  "size": "small",
+//  "number": "dsds",
+//  "price": "adad",
+{
+  "qqqqq": "ddd",
+
+  "all": [
+    {
+      "item": "sasa",
+      "size": "sasa",
+      "number": 12,
+      "price": 12.52
+    }
+  ]
+}
