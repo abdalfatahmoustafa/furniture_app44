@@ -8,7 +8,7 @@ import 'package:provider/provider.dart';
 import '../providers/auth provider.dart';
 
 class ChooseTypeOfUser extends StatefulWidget {
-  const ChooseTypeOfUser({Key? key}) : super(key: key);
+  const ChooseTypeOfUser({Key? key}) :   super(key: key);
 
   @override
   _ChooseTypeOfUserState createState() => _ChooseTypeOfUserState();
