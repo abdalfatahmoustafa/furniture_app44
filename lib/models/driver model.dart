@@ -19,7 +19,7 @@ class DriverModel {
         this.carType,
         this.carNumber,
         this.available,this.pricePerKilo});
-//Map<String,dynamic> x = {"name":"Adel","age":25};
+
   DriverModel.fromJson(Map<String, dynamic> json) {
     name = json['name'];
     id = json['id'];
